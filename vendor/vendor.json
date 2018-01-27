@@ -236,6 +236,12 @@
 			"revisionTime": "2017-09-15T21:01:58Z"
 		},
 		{
+			"checksumSHA1": "mrz/kicZiUaHxkyfvC/DyQcr8Do=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "ecdeabc65495df2dec95d7c4a4c3e021903035e5",
+			"revisionTime": "2017-10-02T20:02:53Z"
+		},
+		{
 			"checksumSHA1": "cGY7ZInpebRCbyfMs9IZbUBHcgE=",
 			"path": "github.com/digitalocean/godo",
 			"revision": "34840385860db94c88d044571153b6a200ca40b2",
@@ -277,6 +283,12 @@
 			"path": "github.com/google/go-querystring/query",
 			"revision": "53e6ce116135b80d037921a7fdd5138cf32d7a8a",
 			"revisionTime": "2017-01-11T10:11:55Z"
+		},
+		{
+			"checksumSHA1": "uFNLkTxk8BkHTk0Jcub2lj2BX4M=",
+			"path": "github.com/google/uuid",
+			"revision": "dec09d789f3dba190787f8b4454c7d3c936fed9e",
+			"revisionTime": "2017-11-29T19:10:14Z"
 		},
 		{
 			"checksumSHA1": "Wbsfxh89xfnFDZzoEOzpfUV9+u8=",
@@ -333,6 +345,12 @@
 			"revisionTime": "2017-09-10T13:46:14Z"
 		},
 		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "792786c7400a136282c1664665ae0a8db921c6c2",
+			"revisionTime": "2016-01-10T10:55:54Z"
+		},
+		{
 			"checksumSHA1": "02kfHQp1KLch4P2FG1OrEG/24t8=",
 			"path": "github.com/prasmussen/gandi-api",
 			"revision": "931915c3a2ca2661373f0b25bbedfee9e1958d2b",
@@ -371,6 +389,24 @@
 		{
 			"checksumSHA1": "avzpVkEeXzDiaNLsl4agXWm9tm0=",
 			"path": "github.com/prasmussen/gandi-api/domain/zone/version",
+			"revision": "00637462a528a482a9f3486333be02266bce2086",
+			"revisionTime": "2018-01-16T21:20:20Z"
+		},
+		{
+			"checksumSHA1": "lgixSmeD/e2zKVoMq3xJ+0ormhQ=",
+			"path": "github.com/prasmussen/gandi-api/live_dns/domain",
+			"revision": "00637462a528a482a9f3486333be02266bce2086",
+			"revisionTime": "2018-01-16T21:20:20Z"
+		},
+		{
+			"checksumSHA1": "YOKj2uCylMIaRNJHaOIVEns0K6c=",
+			"path": "github.com/prasmussen/gandi-api/live_dns/record",
+			"revision": "00637462a528a482a9f3486333be02266bce2086",
+			"revisionTime": "2018-01-16T21:20:20Z"
+		},
+		{
+			"checksumSHA1": "6RPrDOwDmrid3tVGytQUjQri2YA=",
+			"path": "github.com/prasmussen/gandi-api/live_dns/zone",
 			"revision": "00637462a528a482a9f3486333be02266bce2086",
 			"revisionTime": "2018-01-16T21:20:20Z"
 		},
@@ -475,6 +511,12 @@
 			"path": "github.com/softlayer/softlayer-go/sl",
 			"revision": "5e1c8cccc730778a87ca5a0c5348fcfddc02cee2",
 			"revisionTime": "2017-08-04T16:05:55Z"
+		},
+		{
+			"checksumSHA1": "uyVU5fRfEK17QZuODRjeZX8zDqg=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "87b1dfb5b2fa649f52695dd9eae19abe404a4308",
+			"revisionTime": "2017-12-31T12:27:32Z"
 		},
 		{
 			"checksumSHA1": "Dsu5YKdxGeL3Q2VkQ3kuMuebFDc=",
